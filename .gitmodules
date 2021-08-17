@@ -1,0 +1,6 @@
+[submodule "lahuellademivida-backend"]
+	path = lahuellademivida-backend
+	url = https://github.com/i-perez-s/lahuellademivida-backend
+[submodule "lahuellademivida-frontend"]
+	path = lahuellademivida-frontend
+	url = https://github.com/i-perez-s/lahuellademivida-frontend
